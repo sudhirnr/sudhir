@@ -1,2 +1,6 @@
 Hello git!!
+<<<<<<< HEAD
 Hello branch abc!!!
+=======
+Hello xyz!!
+>>>>>>> xyz
